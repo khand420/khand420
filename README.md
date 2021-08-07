@@ -1,4 +1,5 @@
-                                                       Hi👋 **I'm Danish**
+                                                       <h1 align="center">Hi👋 I'm Danish</h1> 
+                                                       
                                           A passionate Full-Stack Developer from India
 
 🔭 I’m currently pursuing my 2nd year Bachelor's Computer Science degree. Since these two year, I’ve learned technologies and have built multiples projects. 
