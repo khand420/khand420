@@ -1,5 +1,6 @@
-Hi👋 I'm Danish
-A passionate frontend developer from India
+                                                                                   Hi👋 I'm Danish
+                                                                      A passionate frontend developer from India
+                                                                      
 🔭 I’m currently pursuing my 2nd year Bachelor's Computer Science degree
 
 🌱 I’m currently learning Android Development with flutter and Web Development with Python-Django
@@ -7,8 +8,6 @@ A passionate frontend developer from India
 💬 Ask me about HTML,CSS and Python
 
 📫 How to reach me Email
-
-😄 Pronouns: She/Her
 
 🔭 I’m currently working on Flutter based projects
 
