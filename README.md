@@ -1,5 +1,5 @@
-                                                                                   Hi👋 I'm Danish
-                                                                      A passionate frontend developer from India
+                                                                 Hi👋 I'm Danish
+                                                    A passionate Full-Stack Developer from India
                                                                       
 🔭 I’m currently pursuing my 2nd year Bachelor's Computer Science degree
 
