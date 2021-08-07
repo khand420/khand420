@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Android Development with flutter and Web Development with Python-Django
 
-💬 Ask me about HTML,CSS,JavaScript and Python
+💬 Ask me about HTML,CSS,JavaScript, and Python
 
 📫 How to reach me Email
 
