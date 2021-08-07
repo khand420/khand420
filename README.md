@@ -1,4 +1,4 @@
-                                                       Hi👋 I'm #Danish
+                                                       Hi👋 **I'm Danish**
                                           A passionate Full-Stack Developer from India
 
 🔭 I’m currently pursuing my 2nd year Bachelor's Computer Science degree. Since these two year, I’ve learned technologies and have built multiples projects. 
@@ -8,7 +8,7 @@
 
 💬 Ask me about HTML,CSS,JavaScript, and Python
 
-📫 How to reach me Email
+📫 How to reach me [EMAIL]()
 
 🔭 I’m currently working on Flutter based projects
 
