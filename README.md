@@ -12,7 +12,7 @@
 🔭 I’m currently working on Flutter based projects
 
 Connect with me:
-https://www.linkedin.com/in/danish-khan-5a4039184/ https://www.instagram.com/khan_d_/ https://www.hackerrank.com/ https://www.facebook.com/profile.php?id=100005127307747
+https://www.linkedin.com/in/danish-khan-5a4039184/ https://www.instagram.com/khan_d_/  https://www.facebook.com/profile.php?id=100005127307747
 
 Languages and Tools:
 android bootstrap css3 flutter html5 java nodejs python react
