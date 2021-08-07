@@ -1,6 +1,6 @@
-                                                                 Hi👋 I'm Danish
-                                                    A passionate Full-Stack Developer from India
-                                                                      
+                                                       Hi👋 I'm Danish
+                                          A passionate Full-Stack Developer from India
+
 🔭 I’m currently pursuing my 2nd year Bachelor's Computer Science degree
 
 🌱 I’m currently learning Android Development with flutter and Web Development with Python-Django
