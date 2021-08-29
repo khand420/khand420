@@ -12,9 +12,9 @@
 <li>
 <p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>HTML, CSS, JavaScript and Python</strong></p>
 </li>
-<li>
+<!-- <li>
 <p><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <a href="mailto:khand7661@gmail.com">Email</a></p>
-</li>
+</li> -->
 <li>
 <p><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on Flutter based projects</p>
 </li>
