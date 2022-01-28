@@ -4,7 +4,7 @@
 
    <ul>
 <li>
-<p><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently pursuing my <strong>2nd year B-TECH in Computer Science degree. </strong>Since these two year, I’ve learned technologies and have built multiples projects. </p>
+<p><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently pursuing my <strong>3rd year B-TECH in Computer Science & Engineering. </strong>Since these three year, I’ve learned technologies and have built multiples projects. </p>
 </li>
 <li>
 <p><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning <strong>Android Development with Flutter</strong> and <strong>Web Development with Python-Django</strong></p>
