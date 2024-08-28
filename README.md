@@ -39,7 +39,7 @@
 - 💬 Ask me about **Python, Flask, FastApI JavaScript, React and Node.js**
 - 📫 How to reach me: [Email](mailto:khand7661@gmail.com)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love playing Cricket and exploring new technologies!**
+- ⚡ Fun fact: **I love playing cricket and exploring new technologies!**
 
 ---
 
