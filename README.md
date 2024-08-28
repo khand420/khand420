@@ -107,13 +107,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=khand420&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Trophies">
 </p>
 
----
-
-### 🎮 Fun Stuff: What I'm Playing
-
-- 🎮 Call of Duty: Warzone
-- ⚽ FIFA 23
-- 🚗 Forza Horizon 5
 
 ---
 
